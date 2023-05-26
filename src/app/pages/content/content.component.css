@@ -1,0 +1,25 @@
+.container__content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+.content__cover > img{
+  border: 1px solid green;
+  width: 100%;
+}
+
+.content__title > h1{
+  margin: 40px 20px 20px 20px;
+}
+
+.content__description > p{
+  margin: 20px 20px 40px 20px;
+  color: gray;
+}
+
+.content__voltar{
+  margin: 20px;
+}

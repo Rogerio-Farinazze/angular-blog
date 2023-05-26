@@ -1,0 +1,10 @@
+@media (min-width: 992px)
+{
+  .container__content{
+    max-width: 80vw;
+    margin: 0 auto;
+  }
+  .content__cover {
+    width: 100%;
+  }
+}
